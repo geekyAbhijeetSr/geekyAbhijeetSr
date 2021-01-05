@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Abhijeet
-I am a full stack developer (mern). I really like to learn new stuff to improve my skill, currently digging deeper into web technologies.
+I am a full stack developer (mern) looking to solve real world problems. I really like to learn new stuff and share knowledge with others, currently digging deeper into web technologies.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijeet199&show_icons=true)  
 
