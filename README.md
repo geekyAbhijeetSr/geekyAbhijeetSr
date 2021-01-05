@@ -5,7 +5,6 @@ I am a full stack developer (mern) looking to solve real world problems. I reall
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet199) 
 
-![Profile views](https://gpvc.arturio.dev/Abhijeet199)  
 
 
 
