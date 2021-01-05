@@ -6,8 +6,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet199) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhijeet199)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Profile views](https://gpvc.arturio.dev/Abhijeet199)  
 
 
