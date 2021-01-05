@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Abhijeet
-#### Full Stack Developer (MERN)
-
 - 🌐️ Digging deeper into web technologies.
-- 💻️ Full Stack Developer
+- 💻️ Full Stack Developer (MERN)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abhijeet199)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhijeet-singh-225840190/)  
 
