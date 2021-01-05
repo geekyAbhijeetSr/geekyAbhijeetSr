@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Abhijeet
-- 🌐️ Digging deeper into web technologies.
-- 💻️ Full Stack Developer (MERN)
+I'm Full Stack Developer (MERN) from Varansi, India, currently digging deeper into web technologies.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijeet199&show_icons=true)  
 
