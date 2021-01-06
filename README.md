@@ -9,7 +9,6 @@ I am a full stack developer(mern) looking to solve real world problehttps://gith
 - MongoDB / Mongoose
 - Materialize CSS / Bootstrap
 - Python 3
-- Object-Oriented Programming (OOP)
 - Linux / SSH / Shell Scripting
 - C
 
