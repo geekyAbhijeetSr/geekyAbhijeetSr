@@ -11,5 +11,3 @@ I am a full stack developer(mern) looking to solve real world problems. I really
 - Python 3
 - Git / CLI / Linux / SSH / Shell Scripting
 - C
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijeet199&show_icons=true)  
