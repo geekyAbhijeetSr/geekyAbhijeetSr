@@ -9,5 +9,7 @@ I am a full stack developer(mern) looking to solve real world problems. I really
 - MongoDB / Mongoose
 - Materialize CSS / Bootstrap
 - Python 3
-- Git / CLI / Linux / SSH / Shell Scripting
+- Git
+- GulpJs
+- CLI / Linux / SSH / Shell Scripting
 - C
