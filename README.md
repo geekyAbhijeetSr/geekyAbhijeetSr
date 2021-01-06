@@ -9,7 +9,7 @@ I am a full stack developer(mern) looking to solve real world problehttps://gith
 - MongoDB / Mongoose
 - Materialize CSS / Bootstrap
 - Python 3
-- Linux / SSH / Shell Scripting
+- Git / CLI / Linux / SSH / Shell Scripting
 - C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijeet199&show_icons=true)  
