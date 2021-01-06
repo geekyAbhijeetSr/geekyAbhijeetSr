@@ -1,5 +1,5 @@
 ## Hi there 👋️, my name is Abhijeet
-#### I am a full stack developer looking to solve real world problems. I really like to learn something new and ~~reading books~~ listening audio books, currently diving deeper into web technologies.
+I am a full stack developer looking to solve real world problems. I really like to learn something new and ~~reading books~~ listening audio books, currently diving deeper into web technologies.
 
 ---
 ### Skills
