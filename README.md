@@ -10,6 +10,5 @@ I am a full stack developer(mern) looking to solve real world problems. I really
 - Materialize CSS / Bootstrap
 - Python 3
 - Git
-- GulpJs
-- CLI / Linux / SSH / Shell Scripting
+- CLI / Linux / SSH / Shell Scripting / Gulp
 - C
