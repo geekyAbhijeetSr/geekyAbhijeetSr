@@ -50,4 +50,4 @@ A passionate ⚡ self taught **full stack developer**, looking 👀 to solve rea
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet199&theme=dark)  
 
 ## 🌐 Connect with me:
-[![linkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/abhijeet-dev/)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-dev/)
