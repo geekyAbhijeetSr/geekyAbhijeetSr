@@ -42,6 +42,7 @@ I am a passionate ⚡ self taught **full stack developer**, looking 👀 to solv
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNU-Bash)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![vscode](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 
 
 
