@@ -13,9 +13,9 @@ Skills
 -->
 
 
-# Namaste 🙏️
+# Namaste 🙏️, I'm Abhijeet
 
-I am a passionate ⚡ self taught **full stack developer**, looking 👀 to solve real world problems. I really like to learn something new and ~~reading books~~ listening 🎧 audio books, currently diving deeper into web technologies.
+A passionate ⚡ self taught **full stack developer**, looking 👀 to solve real world problems. I really like to learn something new and ~~reading books~~ listening 🎧 audio books, currently diving deeper into web technologies.
 
 
 ## 🌐 Connect with me:
