@@ -39,9 +39,10 @@ I am a passionate ⚡ self taught **full stack developer**, looking 👀 to solv
 ![sass](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=Sass)
 ![babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=Babel)
 ![Materialize](https://img.shields.io/badge/-Materialize_CSS-black?style=flat-square&logo=Materialize)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNU-Bash)
+![Bash](https://img.shields.io/badge/-CLI-black?style=flat-square&logo=GNU-Bash)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![vscode](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 
 
