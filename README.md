@@ -19,7 +19,7 @@ I am a passionate ⚡ self taught **full stack developer**, looking 👀 to solv
 
 
 ## 🌐 Connect with me:
-![Twitter URL](https://img.shields.io/twitter/url?label=%40abhijeet-dev&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabhijeet-dev%2F)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/abhijeet-dev/)
 
 ## 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
