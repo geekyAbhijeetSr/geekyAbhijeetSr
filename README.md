@@ -17,10 +17,6 @@ Skills
 
 A passionate ⚡ self taught **full stack developer**, looking 👀 to solve real world problems. I really like to learn something new and ~~reading books~~ listening 🎧 audio books, currently diving deeper into web technologies.
 
-
-## 🌐 Connect with me:
-[![linkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/abhijeet-dev/)
-
 ## 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js)
@@ -52,3 +48,6 @@ A passionate ⚡ self taught **full stack developer**, looking 👀 to solve rea
   
 ![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet199&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet199&theme=dark)  
+
+## 🌐 Connect with me:
+[![linkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/abhijeet-dev/)
