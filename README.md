@@ -18,10 +18,10 @@ Skills
 I am a passionate ⚡ self taught **full stack developer**, looking 👀 to solve real world problems. I really like to learn something new and ~~reading books~~ listening 🎧 audio books, currently diving deeper into web technologies.
 
 
-## ⛓️ Connect with me:
+## 🌐 Connect with me:
 ![Twitter URL](https://img.shields.io/twitter/url?label=%40abhijeet-dev&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabhijeet-dev%2F)
 
-## 🧰 Languages and Tools:
+## 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -41,10 +41,12 @@ I am a passionate ⚡ self taught **full stack developer**, looking 👀 to solv
 ![Materialize](https://img.shields.io/badge/-Materialize_CSS-black?style=flat-square&logo=Materialize)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNU-Bash)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+![vscode](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
 
 
-## 📊 Github Stats:
+
+## 🌀 Github Stats:
   
 ![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet199&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet199&theme=dark)  
