@@ -1,21 +1,6 @@
-<!-- Hi there 👋️, my name is Abhijeet
-I am a full stack developer looking to solve real world problems. I really like to learn something new and ~~reading books~~ listening audio books, currently diving deeper into web technologies.
-Skills
-- HTML / CSS / SASS / JavaScript / ReactJs
-- ES6 / Reack Hooks
-- NodeJs / ExpressJs
-- MongoDB / Mongoose
-- Materialize CSS / Bootstrap
-- Python 3
-- Git
-- CLI / Linux / SSH / Shell Scripting / Gulp
-- C
--->
-
-
 # Namaste 🙏️, I'm Abhijeet
 
-A passionate ⚡ self taught **full stack developer**, looking 👀 to solve real world problems. I really like to learn something new and ~~reading books~~ listening 🎧 audio books, currently diving deeper into web technologies.
+A passionate ⚡ self taught **full stack developer**, looking 👀 to solve real world problems. I really like to learn something new and ~~reading books~~ listening 🎧 audio books, podcasts. Currently diving deeper into web technologies.
 
 ## 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
