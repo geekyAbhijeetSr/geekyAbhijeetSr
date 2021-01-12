@@ -1,6 +1,6 @@
 # Namaste 🙏️, I'm Abhijeet
 
-A passionate ⚡ self taught **full stack developer**, looking 👀 to solve real world problems. I really like to learn something new and ~~reading books~~ listening 🎧 audio books, podcasts. Currently diving deeper into web technologies.
+A passionate ⚡ self taught **full stack developer**, looking 👀 to solve real world problems. I really like to learn something new and ~~reading books~~ listening 🎧 audio books, podcasts. Currently diving deeper into web technologies and sharpening🔪my skills. 
 
 ## 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
