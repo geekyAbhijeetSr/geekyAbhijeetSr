@@ -31,8 +31,7 @@ A passionate⚡️ self taught full stack developer 👨‍💻, looking 👀️
 
 ## 🌀 Github Stats:
   
-![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet199&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet199&theme=dark)  
+![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeet199&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
 
 ## 🌐 Connect with me on:
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-dev/)
