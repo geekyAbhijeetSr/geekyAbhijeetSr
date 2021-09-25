@@ -1,6 +1,6 @@
 # Namaste 🙏️, I'm Abhijeet
 
-A passionate⚡️ self taught full stack developer 👨‍💻, looking 👀️ to solve real world problems. I really like to learn something new and reading books📚, listening🎧️ music, audio books and podcasts. Currently diving deeper into web technologies and sharpening🔪 my skills.
+A passionate self taught full-stack engineer, looking to solve real world problems. Expertise in Javascript, React, NodeJs, Express, MongoDB and mongoose. I really like to learn something new, reading books, listening audiobooks and podcasts. Also a huge interest in investing, love to learn about it too.
 
 ## 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
