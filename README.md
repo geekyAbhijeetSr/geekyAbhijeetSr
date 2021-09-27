@@ -22,7 +22,10 @@ Other->
 ![Regex](https://img.shields.io/badge/-Regex-black?style=flat-square&logo=Regex)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+
+Plateform & Code Editor->
+![Arch](https://img.shields.io/badge/-Arch-black?style=flat-square&logo=arch-linux)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
 
 ## 🌀 Github Stats:
 
