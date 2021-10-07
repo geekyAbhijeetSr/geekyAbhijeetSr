@@ -1,6 +1,6 @@
 # Namaste 🙏️, I'm Abhijeet
 
-A passionate self taught full-stack engineer, looking to solve real world problems. Expertise in Javascript, React, NodeJs, Express, MongoDB and mongoose. I really like to learn something new, reading books, listening audiobooks and podcasts. Also a huge interest in investing, love to learn about it too.
+A passionate self taught full-stack engineer, looking to solve real world problems. Expertise in Javascript, React, NodeJs, Express, MongoDB and mongoose with good practices. I really like to learn something new, reading books and listening to podcasts. Also a huge interest in investing, love to learn about it too.
 
 ## 🛠️ My Tools:
 Front-End Stack->
@@ -23,8 +23,9 @@ Other->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-Plateform & Code Editor->
+Plateforms & Code Editor->
 ![Arch](https://img.shields.io/badge/-Arch-black?style=flat-square&logo=arch-linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
 
 ## 🌀 Github Stats:
