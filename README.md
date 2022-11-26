@@ -2,7 +2,7 @@
 
 My name is Abhijeet Singh, I build things for the web 🌐
 
-## 🛠️ Tools i use to build cool things
+## 🛠️ Tools I use to build cool things
 * Front-End  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
